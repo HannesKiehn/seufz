@@ -5,6 +5,11 @@
   text-align: center;
 }
 
+body {
+  background-color: rgb(197, 228, 248);
+  color: black;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -33,10 +38,10 @@
   }
 }
 
-.card {
+.counter {
   padding: 2em;
 }
 
-.read-the-docs {
-  color: #888;
+.roman {
+  font-size: 5vw;
 }
