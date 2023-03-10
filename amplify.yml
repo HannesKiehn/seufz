@@ -6,7 +6,6 @@ frontend:
   phases:
     preBuild:
       commands:
-        - cd seufz
         - npm ci
     build:
       commands:
